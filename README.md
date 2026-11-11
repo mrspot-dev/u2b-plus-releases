@@ -4,47 +4,43 @@
 
 # U2B+
 
-**Watch your YouTube subscriptions, calmly.**
+**Your YouTube subscriptions, newest first.**
 
-A desktop app for Windows that shows your subscriptions in a clean, chronological feed —
-no ads, no recommendations, no algorithm, no Google account. Everything stays on your computer.
+A desktop app for Windows that shows the channels you follow as a plain, time-ordered list.
+No ads, no recommendations, no Google account. Your subscriptions, lists and history stay in a
+file on your own computer.
 
-[**Download the latest version →**](../../releases/latest)
+[**Download the latest version**](../../releases/latest)
 
 </div>
 
----
+## What it does
 
-## Why U2B+
+U2B+ shows the channels you subscribe to and leaves out the rest. There is no home page full of
+suggestions and no autoplay into the next thing. You pick who you follow, and you get their videos
+in the order they were posted.
 
-YouTube is built to keep you scrolling. U2B+ is built to let you watch what you came for and then stop.
-
-- **Your subscriptions, in order.** A single chronological feed of the channels you follow — newest first, nothing injected.
-- **No account, no tracking.** U2B+ does not log in to Google and keeps your subscriptions, lists and history in a file on your own machine.
-- **No ads, no recommendation rabbit holes.** Just the videos, a search, and your own lists.
-- **Quiet by design.** No home-page clickbait, no autoplay into the void.
-
-## Features
-
-- Chronological subscription feed with filters (time range, length, seen/unseen, channel, title search)
-- First-start setup to pick the channels you want to follow
-- Channel pages with their own search, and global video search
+- A single feed of your subscriptions, newest first, with filters for time range, length, channel and seen or unseen
+- A short setup on first start to choose the channels you want to follow
+- Channel pages with their own search, plus a search across everything
 - Watch Later and your own playlists
-- Watch history that you can search — including by **what was said** in a video, jumping straight to the moment
-- An "evening queue": line up videos and play through them with the mouse
-- Resume where you left off
-- Updates itself in the background
+- A watch history you can search, including by what was said in a video, with a jump straight to that spot
+- An evening queue: line up a few videos and click through them with the mouse
+- It resumes where you stopped
+- It updates itself in the background
 
 ## Install
 
-1. Open the [latest release](../../releases/latest) and run `U2B-Plus-<version>-setup.exe`. No administrator rights needed.
-2. The installer is not code-signed, so Windows SmartScreen may warn you. Choose **More info → Run anyway**.
-3. U2B+ keeps itself up to date from here on.
+Open the [latest release](../../releases/latest) and run `U2B-Plus-<version>-setup.exe`. You do not
+need administrator rights.
+
+The installer is not code-signed, so Windows SmartScreen may warn you. Click "More info", then
+"Run anyway". After that, U2B+ keeps itself up to date.
 
 ## Notice
 
 U2B+ is not affiliated with YouTube or Google. If you hold rights to content or trademarks and
-have a concern about this repository, please open an issue and it will be taken down promptly.
+have a concern about this repository, open an issue and it will be taken down promptly.
 
 <div align="center">
 <sub>Installer and update files only. The source code is not published here.</sub>
