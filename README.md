@@ -14,6 +14,18 @@ file on your own computer.
 
 </div>
 
+## Screenshots
+
+| Your subscription feed |
+| --- |
+| ![The subscription feed](assets/screenshot-feed.png) |
+
+| A channel page |
+| --- |
+| ![A channel page](assets/screenshot-channel.png) |
+
+The interface is in German.
+
 ## What it does
 
 U2B+ shows the channels you subscribe to and leaves out the rest. There is no home page full of
